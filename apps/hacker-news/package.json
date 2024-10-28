@@ -30,7 +30,7 @@
     "@tr/prettier-config": "workspace:*",
     "@tr/tailwind-config": "workspace:*",
     "@tr/tsconfig": "workspace:*",
-    "@types/node": "^18.16.5",
+    "@types/node": "^20.17.2",
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
     "autoprefixer": "latest",
