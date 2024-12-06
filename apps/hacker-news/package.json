@@ -22,7 +22,7 @@
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "superjson": "^1.13.3",
+    "superjson": "^2.2.2",
     "zod": "^3.21.4"
   },
   "devDependencies": {
