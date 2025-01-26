@@ -13,7 +13,7 @@
     "with-env": "dotenv -e ../../.env --"
   },
   "dependencies": {
-    "@t3-oss/env-nextjs": "^0.7.1",
+    "@t3-oss/env-nextjs": "^0.12.0",
     "@tanstack/react-query": "^4.36.1",
     "@tr/api": "^0.1.0",
     "@tr/auth": "^0.1.0",
